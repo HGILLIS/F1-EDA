@@ -1,15 +1,18 @@
 ---
 title: 'Henry Gillis Intro to Data Science HW #7'
 output:
-  html_notebook:
-    number_sections: no
-    toc: yes
-    toc_depth: 2
-    toc_float: yes
+  pdf_document:
+    toc: true
+    toc_depth: '2'
   html_document:
-    toc: yes
+    toc: true
     toc_depth: '2'
     df_print: paged
+  html_notebook:
+    number_sections: false
+    toc: true
+    toc_depth: 2
+    toc_float: true
 ---
 
 # Intro/Data set Description
